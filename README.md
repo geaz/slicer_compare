@@ -167,4 +167,4 @@ Save: Instant
 #### Benchy
 
 #### Comments
-Very good performance. Manual supports possible nice handlig of different settings for different models or layers in you print - called processes. Only non-free slicer on this list. I think it is a bit pricey. The other slicers are also able to produce very good results and they are free!
+Very good performance. Manual supports possible, nice handlig of different settings for different models or layers in you print - called processes. Only non-free slicer on this list. I think it is a bit pricey. The other slicers are also able to produce very good results and they are free!
