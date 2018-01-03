@@ -118,15 +118,15 @@ If you know how to use it, IceSL is really great!
 
 #### Times
 
-Print Time: 36min
-Open: 22.69s / 22.43s / 23.24s
+Print Time: 36min  
+Open: 22.69s / 22.43s / 23.24s  
 Slice: 11.93s / 11.25s / 11.43s  
-Save: 3.46s / 3.66s / 3.42s 
+Save: 3.46s / 3.66s / 3.42s
 
 #### Benchy
 
 #### Comments
-KISSlicer just exposes the most common and important settings and uses default values for the remaining. UI not the best in this matchup.
+KISSlicer just exposes the most common and important settings and uses default values for the remaining. UI and performance was not the best in this matchup.
 
 ### Slic3r Dev-1.3
 
@@ -153,7 +153,7 @@ Save: 1.06 / 0.92 / 1.01
 
 #### Comments
 Many options could confuse beginners, but are great for experienced users. Users are able to create profiles for materials, printers and print settings.
-Provides a feature similar to IceSLs 'adaptive layering'.
+Provides a feature similar to IceSLs 'adaptive layering'. Better performance than the "original" Slic3r.
 
 ### Simplify3D 4.0
 
@@ -167,4 +167,4 @@ Save: Instant
 #### Benchy
 
 #### Comments
-Very good performance. Only non-free slicer on this list. I think it is a bit pricey. The other slicers are also able to produce very good results and they are free! I don't think there is anything which would justify the high price.
+Very good performance. Manual supports possible nice handlig of different settings for different models or layers in you print - called processes. Only non-free slicer on this list. I think it is a bit pricey. The other slicers are also able to produce very good results and they are free!
