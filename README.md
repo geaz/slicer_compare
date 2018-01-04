@@ -106,7 +106,7 @@ Save: Instant
 
 #### Benchy
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8EHkJ"><a href="//imgur.com/a/8EHkJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DEQJl"><a href="//imgur.com/a/DEQJl">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Print Time: 35min  
 
@@ -128,7 +128,7 @@ Slice+Save: 1.68s / 1.62s / 1.61s
 
 #### Benchy
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8EHkJ"><a href="//imgur.com/a/8EHkJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KmIRa"><a href="//imgur.com/a/KmIRa">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Print Time: 33min  
 
@@ -150,7 +150,7 @@ Save: 3.46s / 3.66s / 3.42s
 
 #### Benchy
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8EHkJ"><a href="//imgur.com/a/8EHkJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qmtAG"><a href="//imgur.com/a/qmtAG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Print Time: 36min  
 
@@ -169,7 +169,7 @@ Save: 1.68s / 1.44s / 1.32s
 
 #### Benchy
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8EHkJ"><a href="//imgur.com/a/8EHkJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/q7tJ1"><a href="//imgur.com/a/q7tJ1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Print Time: 28min  
 
@@ -188,7 +188,7 @@ Save: 1.06s / 0.92s / 1.01s
 
 #### Benchy
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8EHkJ"><a href="//imgur.com/a/8EHkJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5lhVH"><a href="//imgur.com/a/5lhVH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Print Time: 28min  
 
@@ -207,7 +207,7 @@ Save: Instant
 
 #### Benchy
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8EHkJ"><a href="//imgur.com/a/8EHkJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/rs0Qa"><a href="//imgur.com/a/rs0Qa">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Print Time: 43min
 
