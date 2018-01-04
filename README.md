@@ -201,8 +201,8 @@ Provides a feature similar to IceSLs 'adaptive layering'. Better performance tha
 
 #### Times
 
-Open: Instant
-Slice: 1.13s / 0.97s / 1.02s
+Open: Instant  
+Slice: 1.13s / 0.97s / 1.02s  
 Save: Instant
 
 #### Benchy
